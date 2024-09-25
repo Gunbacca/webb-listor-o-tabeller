@@ -3,5 +3,11 @@ table{
     width: 30%;
 }
 thead{
-    background-color: gray
+    background-color: gray;
+}
+tbody{
+    text-align: center;
+}
+img{
+    height: 70px;
 }
