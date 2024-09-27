@@ -16,3 +16,10 @@ img{
 td{
     border: 2px solid gray;
 }
+tbody tr:nth-child(odd) {
+background-color: rgb(212, 180, 141);
+}
+tbody tr:hover{
+    background-color: rgb(53, 245, 6);
+    transition: 1s;
+}
